@@ -1,7 +1,7 @@
 var decalImage = new Image;
 
 
-decalImage.src = './public/smash.png';
+decalImage.src = './public/bullethole.png';
 
 let weaponImage = './public/wGun.png'
 
